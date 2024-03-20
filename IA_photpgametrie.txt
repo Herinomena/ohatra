@@ -1,0 +1,111 @@
+methode decollect:snokoelling, dplongee, gps,drone
+asv(plancha)/drone +RTK/GPS à deploier
+flux de données:dones -traiteent-resultat
+serveur ird de photogrametrie
+parametre de vol:overlap,slidelap resolution au sol ou GSD
+choix du drone aerienne
+rgb/mutispectrale
+logiciel:pix4d,metashape,..
+opensource:open source: OPENDRONEMAP avec des plugins:fildimmageR
+centre de calcul?????
+###base de IA
+ml :pres macheee :calcule de # parametre (moi)c'est apres que -<resultat
+dl:reseau neuronne no manao ny calcule >-resultat
+historique de reseau neron
+aggregation/activation
+formule eto:
+ytrue
+vitesse d'apprentissage
+
+convolutif:reconnaisance et traitement image
+challege:quantite d'image a noter
+puissance de calcul
+#fonctionement d'un reseau neuronne
+poids fois parametre:aggre Z
+activation:activer neurone ou pas
+fonct signoide a(z) resultat  entre 0 et 1
+foct de cout(loss) :somme des erreur un fonction convex mana min
+learning rate(pas d'appretisage)
+(forward propagation/backard progra)->iteration(
+machie learnia
+fondation fdl proposer par CNRS les deux tuto 
+#####
+nobre de categorie à classifier:voir des literatures/nombre d'immage à collecter (mety efa vita), annoter
+#####mettre en place un projet de DL en image
+1-pre traitement des donnes brute
+2-annottation
+3-entrainement
+4-evaluation
+5-exploitation et valorisation des 
+csv/json
+nettoyage de donnes à la mmain ou atomatique paqckage jaque
+thotogamrti coherance ntre les immage et DL des difference entre les images
+data spliting 80/20
+#diffreent teck d'anottation
+monolabel/multi-label/polygone/segmetation(semetique,instance)
+
+entrainemnt:
+biliothek:pytorch,detectron,
+utilisation des model deja cree(architecture du model)
+chois du model(litterature)
+metric/score/accuracie
+makesense.ai/
+SAM segemnt anything de facebook segement-anything.com
+###python CVAT
+fiftyOne
+image kevin + model matheo
+#####
+test->metric
+3 eme partie Avaluation
+4 type de prediction:vrais/faut possitif/negatif
+metric;precision, recall,accuracy,,
+matrice de confusion (monolabel application)
+###############
+developemt de plugins sur qgis (un point pour chaque structure vire au rouge quand il est temps de 
+prendre le photo)
+identifying factore for coral survival in reef restoration for conservation using DL
+###################
+data augmentation (augmenter le nombre d'image par generation d'image)
+Matisse(logiciel ifremer)
+developement de paquage
+pl@ntnet data  shared in GBIF
+#########
+code github justine
+######### Gaethan
+modele de distribution d'espece
+geoenrich online
+lien guthhub package python /R
+interpretabilité:package
+choix de variable:prendre tou et eliminer peu à peu
+########################Justine
+filtre des immage:monolabel(useless/usefull) par DL
+panda
+tsy misy equilibre full/sy less de nasina equilibre
+traint_test_split (quel packague)
+tensorbord pour voir les metric
+########################
+server:jupiter (marche avec R/python)
+une img dans sossier image
+###################
+installation pyhton/git laha tsy ao
+cree env virtuelle python -m venv create jacques
+miditra ao naty jaque \script \active
+(jaques)
+intallation paquega avec pip jaques,pythorche,
+pip install git+https//github...
+ffmpeg pour couper les video telecharger si tsy misy
+###############################
+https://lnkd.in/dvXE7KFk
+protocole de collect de donne drone
+definir objectif
+preparation des missions:
+choix drone:drone+SDK+logiciel d'autre entreprise
+planification de vol:meteo (vent)
+pix4D application de planification des vols
+
+
+
+
+
+
+

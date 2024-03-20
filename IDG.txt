@@ -1,0 +1,113 @@
+tmp_seas0 / 83qc (kampus)
+g2OI replication et automatisation des actions
+###Julien barde
+inrastructure de données geographiques (IDG)
+Rodolph (seas-oi)
+ocea consult()
+documentation numerique de coi /pouqui pas mcar
+invenaire des données
+introduction de plan de gestion de données à obliger
+donnée publique sans DOI c'est une erreur (zenodo 3 niveau de Doi)
+doi globale/doi de version pour l'evolution des donéees
+###Wilfide heinzt
+infrastructure dd mutualiseé(INRAE)
+PDG:des outils à chaque etape
+biologin:reseve-gps(antene, puce)
+baliste:plan,preserve
+collect-science
+postgis:stockage
+geonetwork:decrire
+geoserveur:diffuser
+/////:afficher
+contenisation et developpement de cluster kubernets (doker/kubernete)
+######julien anceur
+centripete RTK(reeal time kinematic collaboratif)
+recepteur GNSS
+niveau de precision qu'on a bessoin
+base/recepteur
+gnss/dgnss/rtk/
+https://github.com/Stefal/rtkbase
+rtkbase.eu
+effa misy moyau pre configure azo tonga de installena
+https://mpc.centripede.fr
+#########sylvain
+evaluation la on allez
+loger pdd 6 jour pou poste traitement
+envoie log sur le service/poste traitement
+serveur collaboratif:opendronmap?Mic-Mac,
+
+serveur( reproductible en docker)
+interpperabilite et alimentation des DGI
+geonode:une couche au dessus
+donnéé saugarder qlque part idealement dans un centre natioonla (dans les pays concerneé)
+###deploiement composant
+kubernetes:orkestrateur de conteneur
+composant geonetwork,thredds, geonode,geoserver,postgis,workflow
+differente virtual machine pour chaque objectif(sand box/dev/preprod/PRod)
+dockerhub:stokage des image de chaque composant
+reproductibilite:
+docker hub
+images personalisées:registrip/HARBORD
+kubernetes:sweat/
+docker/podman
+###julien
+methode pour produire metha donnée:interface graphique/programatique/mixte
+zenodo->DOI
+zotero envoie dans zenodo avec R ->DOI
+Nexctcloud
+different gonetxwork qui pointe sur i seul geoserveur (données)
+seantosean
+#############namik
+script pour generer le tab ecxel/csv pour le norme dubline core(15 collone)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
