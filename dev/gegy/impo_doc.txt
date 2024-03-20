@@ -1,0 +1,171 @@
+book
+#------------------------------------------- doc shiny
+https://rhinoverse.dev/#shiny-fluent
+https://www.blogdumoderateur.com/tools/pinetools-merge-images/
+https://www.remove.bg/fr/upload
+canvas.com
+type nul > nom_de_fichier.extension #creer un fichier 
+https://github.com/eblondel/OpenFairViewer
+https://github.com/r-geoflow/geoflow/blob/master/doc/metadata.md
+npm list -g ###liste des paquet installer#
+npm list  #liste des paquet installer localement
+npm audit #audit des paquet installeee
+npm config get init-module #trover la configuration de npm init questioonn
+npm install npm-init
+npm install [package-name]@[version-number]
+npm install parcel@^2.10.3 --save-dev
+npm install --save-dev parcel
+npm install --save-dev parcel-plugin-static-files-copy
+npm i parcel-reporter-static-files-copy  --save-dev
+npm install stable
+npm install parcel-plugin-static-files-copy  --save-dev
+npm install parcel-plugin-static-files-copy@^2.5.0 --save-dev
+npm install cssnano@^4.1.10
+npm install minimatch@^9.0.3
+npm install file-system@^1.2.2
+npm init #defenona@ pakage-json iny
+> npm set init-author-email "emmanuel.blondel1@gmail.com"
+> npm set init-author-url "https://eblondel.github.io"
+> npm set init-license "MIT"
+npm set init-name "openfairviewer_test"
+name": "openfairviewer",
+  "version": "2.8.0",
+  "description": "OpenFairViewer: a FAIR, ISO and OGC (meta)data compliant GIS data viewer for browsing, accessing and sharing geo-referenced statistics",
+
+main.js:dist/OpenFairViewer.js
+########################################
+netstat -ano | find ":8080"
+taskkill /PID Numerofarany /F
+#################################config npm init mapiasa npm init module
+npm i -g init-module
+tadiavina ficier .prmrc de editerna de ok
+#############################################
+http://localhost:8080/geonetwork
+https://demo.geo-solutions.it/share/bev/doc/gn-install/geonet_install.html
+
+sc delete Tomcat9
+
+https://eni7-dev-ed.develop.lightning.force.com/
+krin-1@eni.sandbox
+Her!nomen@11
+
+https://www.digitalocean.com/community/tutorials/how-to-bundle-a-web-app-with-parcel-js
+
+####################################################
+npm init
+openfairviewer
+2.8.0
+OpenFairViewer: a FAIR, ISO and OGC (meta)data compliant GIS data viewer for browsing, accessing and sharing geo-referenced statistics
+https://github.com/eblondel/OpenFairViewer.git
+Emmanuel Blondel
+MIT
+npm install --save-dev parcel
+npm install eblondel/openfairviewer
+npx parcel index.html
+
+"source": "index.html",
+
+"start": "parcel index.html",
+ "build": "parcel build --public-url ./ index.html"
+
+https://geonetwork2-tunaatlas.d4science.org/geonetwork/srv/fre/catalog.search#/home
+
+https://geonetwork-sdi-lab.d4science.org/geonetwork/srv/fre/catalog.search#/metadata/
+https://geonetwork-sdi-lab.d4science.org/geonetwork/srv/fre/csw
+npm install jquery
+"source": "src/OpenFairViewer.js",
+  "main": "dist/OpenFairViewer.js",// à supprimer 
+puis
+npm run build
+
+"parcel": "^2.0.0",
+    "parcel-plugin-static-files-copy": "^2.5.0"
+##########procedure farany
+npm install --save-dev parcel
+npm i parcel-reporter-static-files-copy  --save-dev
+npm init
+openfairviewer
+2.8.0
+OpenFairViewer: a FAIR, ISO and OGC (meta)data compliant GIS data viewer for browsing, accessing and sharing geo-referenced statistics
+https://github.com/eblondel/OpenFairViewer.git
+Emmanuel Blondel
+MIT
+npm install eblondel/openfairviewer
+copiena index sy main
+emmanuel.blondel1@gmail.com
+npx parcel index.html
+
+"start": "parcel index.html",
+"build": "parcel build --public-url ./ index.html"
+
+"staticFiles": {
+    "staticPath": [
+      {
+        "staticPath": "node_modules/openfairviewer/src/templates",
+        "staticOutDir": "templates"
+      },
+      {
+        "staticPath": "node_modules/openfairviewer/src/img",
+        "staticOutDir": "img"
+      }
+    ]
+  },
+
+@package.json
+
+"source": "src/OpenFairViewer.js",
+https://tunaatlas.d4science.org/geonetwork/srv/eng/catalog.search#/home
+http://localhost:8080/geonetwork/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+npm start
+npm run build
+Krin_1@nomena
+#######################################################################"
+📌Project Management Professional Certificate.
+
+👉https://lnkd.in/dBKUUBgt
+
+📌𝐂𝐒𝟓𝟎𝐩: 𝐏𝐲𝐭𝐡𝐨𝐧
+
+👉 https://lnkd.in/dy5ARhK4
+
+📌𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+
+👉https://lnkd.in/dfh9ryRu
+
+📌𝐏𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐲
+
+👉 https://lnkd.in/dMkxRG9h
+
+📌𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜
+
+👉 https://lnkd.in/dZbveEuT
+
+📌𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+👉 https://lnkd.in/dYjQg3ca
+
+📌𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: 𝐂𝐚𝐩𝐬𝐭𝐨𝐧𝐞
+
+👉 https://lnkd.in/dUQ7vgtv
+
+📌𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+👉 https://lnkd.in/dYjQg3ca
+
+📌𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐓𝐢𝐧𝐲𝐌𝐋
+
+👉 https://lnkd.in/dJPuy3vh
+
+📌𝐂𝐒𝟓𝟎'𝐬 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲
+
+👉 https://lnkd.in/dbckB7Zw
+
+📌𝐂𝐒𝟓𝟎'𝐬 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+
+👉 https://lnkd.in/dcTngeaF
+
+📌𝐂𝐒𝟓𝟎'𝐬 𝐖𝐞𝐛 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+👉 https://lnkd.in/ds366YKJ
+
+Do you found this helpful? 🤩
