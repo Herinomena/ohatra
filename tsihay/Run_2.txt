@@ -1,0 +1,18 @@
+Plan de gestion de donées(trategie et outil pour pereniséles données)
+lien des pdf disparue_solution:zenodo(doi)
+visiblilteé et referencement
+zotero->doi
+      <-
+doi ny article efa publieé ren jerena
+liste des document ou des données
+description:abstract, purpose, info,edition
+config metadata gsheeet:sub:taxonomie,projet domainne
+Ze4R
+https://github.com/eblondel/zen4R/wiki
+lequel merite d'etre archive et de metre des doi
+convetion de naerobie/unep regional information managment strategy
+norme dublin core metadonée
+google_rotero:Her!nomen@
+PGD:dmp.opidor.fr
+dmponline.dcc.ac.uk/(exemple de plan MD)
+IRDG2OI:github projet
