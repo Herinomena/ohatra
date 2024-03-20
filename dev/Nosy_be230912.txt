@@ -1,0 +1,60 @@
+Mettre des DOI sur les données?
+DOI pas forcement gratuit(payant)
+on peut avoir notre propre DOI(interte:independce,visibilité; existe entrepo qui on des thematique)
+on enleve pas un DOI(jamais faire)
+ressource à generer:rapport, article(jounal qui met un doi sur les travaus des chercheurs)
+code,poster,..
+portail special pour les données de google:dataset search(DOI)
+acces restrain (un demande au proprietaire)
+regle 3-2-1
+pas le droit de mettre un doi pour les rapport mais demmander au proprietaire
+creer une communauté (zenodo)
+4 niveau d'acces:open acces, embargo(on ouvre apres à une date pres),acces restreint, acces fermé,
+Qui va deposer les DOI dans L'organisation?(partager les copmpte)
+données brute on eviter de la copier le minimun de fois
+dataset qui gerer le doi du monde/il y a d'autre crossref
+tp:
+https://sandbox.zenodo.org/
+a.herinomena11@gmail.com
+Her!nomen@11 MDP
+tiCarmyF14PEqYA5cU4AY9M0YafJPmiRvDHn0rtW1jHHpUBmgAHAn9lATGQi  :token
+
+https://zenodo.org/login/
+Her!nomen@11 MDP
+compte personelle ou pour une organisation?
+creer une communaute ?
+faire la meme chose pour le vrais zenodo*******
+portail et doi doit etre ensemble
+creer un tokken pour authoriser quelqun a publier à un nom
+compte mail/application/personnal acces token
+reflechir quand on va faire un depot
+un doi pour le rapport, un DOI pour le donnes et lier les deux
+on peut mettre le données brutes , données traitée v1, v2, final,
+#############sylvain#############
+les mot cles sont plus important
+impossition de afficher le financement
+geopackage.gpkg (standart à utiliser)c'est qui va remplacer le shape:
+qgis/couche/creer un nouveau couche/ajouter un geopaquage/revenir dans le repertoir pour le nouveau geometrie
+on partage in fichier csv pas un exel qui peut etre par tout
+partager un pdf au lieu des .doc
+openAerialMap:donnée stocke sur platphorme et de assistance en cas de catastrophe
+#################TP##############
+utiliser un compte qui n'est pas un compter personel:
+v1 brute
+v2 resultat:orthophoto
+metadonnées:apercue
+automatiser la publication et le bonne pratique:code
+######################exemple de vrais##############
+description à amelierer hery:abscract, purpose, Info(voir fichier exel, csv)
+il faudrait l' accord de proprietaire pour pouvoire mettre un DOI
+meta_data_ex:zone d'etude, data_collection , data processing,systeme de coordonne,fichier
+***unep/unep data portal
+***automatisation copy donneés dans le nas
+iosque
+#############
+lors de la crattion community zenodo faire attention sur le choix de l'identifiant
+ajouter paragraphe sur
+stage corail/crabe à ajouter
+##########################
+essaie_mikaroka
+https://sandbox.zenodo.org/communities/15465
